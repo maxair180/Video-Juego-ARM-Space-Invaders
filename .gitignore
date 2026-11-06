@@ -1,0 +1,11 @@
+# Archivos de compilación y binarios
+*.elf
+*.bin
+*.uf2
+*.o
+*.d
+
+# Archivos de editor/entorno
+.vscode/
+*.swp
+.DS_Store
