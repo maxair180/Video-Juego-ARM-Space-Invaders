@@ -1,6 +1,6 @@
 # Reporte Técnico: Videojuego Space Invaders en Ensamblador ARM Bare-Metal
-**Estudiante:** Carlos  
-**Curso:** Arquitectura de Computadores II  
+**Estudiante:** Christian Garcia  
+**Curso:** Arquitectura de Computadoras II  
 **Plataforma de Hardware:** Raspberry Pi Pico H (Microcontrolador RP2040 - ARM Cortex-M0+)  
 **Periféricos:** Pantalla OLED SH1106 128x64 I2C (1.3") y Módulo Joystick Analógico KY-023  
 **Lenguaje:** 100% Ensamblador ARMv6-M Puro (`.s`) — Sin bibliotecas externas ni SDK  

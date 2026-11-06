@@ -1,7 +1,8 @@
 # Videojuego Space Invaders en Ensamblador ARM Bare-Metal para Raspberry Pi Pico
 
 **Estudiante:** Christian Garcia  
-**Curso:** Arquitectura de Computadores II  
+**Curso:** Arquitectura de Computadoras II  
+**Universidad Mariano Galvez de Guatemala - Ciclo 8**
 Implementación 100% en lenguaje ensamblador ARMv6-M (Cortex-M0+) para el microcontrolador RP2040 sin intervención de sistemas operativos ni SDK.
 
 ---
